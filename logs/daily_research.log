@@ -1709,3 +1709,12 @@ Email sent: 4aab70b1-67ec-44b8-a2f4-6f3453a8903a
 ✨ Daily Research abgeschlossen!
 📁 Broadcast: /home/flycherry/github/vault-fast/Roadmap/Project Broadcasts/2026-09-10_Broadcast.md
 📧 Email: Versendet ✓
+🚀 Daily Research Bot gestartet...
+📅 11.9.2026, 07:00:01
+
+🔍 Sammle Daten von APIs...
+✅ 20 News Artikel gefunden
+✅ 10 Exa.ai Ergebnisse
+
+📢 Generiere Broadcast...
+❌ Fehler: Cannot read properties of null (reading 'toLowerCase')
